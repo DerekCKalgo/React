@@ -1,0 +1,19 @@
+#language {
+    height: 100px;
+    width: 600px; 
+    border-Style: solid; 
+    margin: auto;
+}
+
+p {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+h1 {
+    display: inline-block;
+}
+
+button {
+    margin-left: 100px;
+}
